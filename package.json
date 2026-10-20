@@ -1,8 +1,11 @@
 {
   "name": "user-api",
   "version": "1.0.0",
-  "description": "Simple User API",
+  "description": "User API and Supabase customer insert API",
   "main": "server.js",
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
     "start": "node server.js"
   },
